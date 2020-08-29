@@ -1,1 +1,1 @@
-# claculator-practice-project
+# calculator-practice-project
